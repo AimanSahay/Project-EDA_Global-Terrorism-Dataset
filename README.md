@@ -1,6 +1,9 @@
 # Project-EDA_Global-Terrorism-Dataset
 This is an Exploratory Data Analysis (EDA) Project on the Global Terrorism Dataset (GTD). 
 
+Tableau Dashboard Link: 
+https://public.tableau.com/app/profile/aiman.sahay/viz/GlobalTerrorismDataAnalysis_17012456906600/GlobalTerrorismDataAnalysisDashboard
+
 About the dataset:
 The Global Terrorism Database (GTD) is an open-source database containing information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks. This dataset currently has 181,691 rows and 135 columns.
 Source :- The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
